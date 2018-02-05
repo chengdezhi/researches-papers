@@ -3,3 +3,4 @@ Hierarchical Embeddings for Hypernymy Detection and Directionality (https://arxi
 
 Evaluating Hierarchies of Verb Argument Structure with Hierarchical Clustering (http://jesse.mu/papers/argstruct_emnlp17.pdf)
 
+http://ruder.io/multi-task/index.html  
